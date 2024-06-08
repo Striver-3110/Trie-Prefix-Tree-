@@ -1,9 +1,6 @@
 #include<bits/stdc++.h>
+#include <cstddef>
 using namespace std;
-
-
-
-
 struct Node{
     Node* links[26];
     int cw = 0;
